@@ -1,4 +1,4 @@
-define(["../../../vendor/jquery/jquery.min", "./mxClient"], function(){
+define(["jquery.min", "./mxClient"], function(){
 
     var StateMachine = function () {
         var container = $("#graphContainer")[0];
